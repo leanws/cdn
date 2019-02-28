@@ -956,4 +956,4 @@ function remove() {
   }
 }
 
-module.exports = datepicker
+// module.exports = datepicker
