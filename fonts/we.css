@@ -1,6 +1,7 @@
 @font-face { font-family: 'RobotoR'; src: url('Roboto-Regular.woff'); }
 @font-face { font-family: 'RobotoB'; src: url('Roboto-Bold.woff'); }
-@font-face { font-family: 'RobotoB'; src: url('Roboto-Light.woff'); }
+@font-face { font-family: 'RobotoL'; src: url('Roboto-Light.woff'); }
+@font-face { font-family: 'RobotoT'; src: url('Roboto-Thin.woff'); }
 
 @font-face { font-family: 'Puhly'; src: url('Comfortaa.woff'); } 
 
